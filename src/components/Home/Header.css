@@ -1,0 +1,244 @@
+header{
+background-image: url("./../../assets/header.webp");
+background-size:cover;
+background-repeat: no-repeat;
+width:100%;
+background-position: center;
+max-width: 100%;
+text-align:left;
+height:600px !important;
+overflow:hidden;
+}
+
+header h2{
+color: #7c0f28;
+font-size:50px;
+width:50%;
+line-height: 60px;
+margin-top:20px;
+}
+header p{
+
+color:#333;
+margin:15px 0px;
+width: 50%;
+font-size: 20px;
+}
+
+header button{
+    width:140px;
+    height:50px;
+    background-color:#7c0f28;
+    color: #fff;
+    text-align:center;
+    border: 1px solid #7c0f28;
+    margin: 20px 10px 20px 0px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius:10px;
+
+}
+header button:hover {
+    width: 140px;
+    height: 50px;
+    background-color: #fff;
+    color: #7c0f28;
+    text-align: center;
+    border: 1px solid #fff;
+    margin: 20px 10px 20px 0px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 10px;
+    transition: 0.2s ease-in-out;
+}
+
+header button:last-of-type {
+    width: 140px;
+    height: 50px;
+    background-color: #fff;
+    color: #7c0f28;
+    text-align: center;
+    border: 1px solid #fff;
+    margin: 20px 10px 20px 0px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 10px;
+
+}
+header button:hover:last-of-type {
+    width: 140px;
+    height: 50px;
+    background-color: #7c0f28;
+    color: #fff;
+    text-align: center;
+    border: 1px solid #7c0f28;
+    margin: 20px 10px 20px 0px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 10px;
+    transition: 0.2s ease-in-out;
+
+}
+
+/*=================home style ====================*/
+
+
+
+.numbers.row {
+
+    margin: 10px 0px;
+}
+
+.numbers {
+    height: auto;
+    background-color: #ab3550;
+    color: #fff;
+    text-align: center;
+    padding:25px 0px;
+    max-width: 100%;
+    overflow: hidden;
+    margin-top:0px;
+}
+
+.numbers h2 {
+  font-size:40px;
+  font-weight:bold;
+  margin:10px 0px ;
+
+}
+.numbers h6 {
+    color: #fff;
+text-transform: uppercase;
+font-weight: bold;
+letter-spacing:2px;
+}
+
+
+.learn-more {
+    width: 140px;
+    height: 50px;
+    background-color: #7c0f28;
+    color: #fff;
+    text-align: center;
+    border: 1px solid #7c0f28;
+    margin: 20px 10px 20px 0px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 10px;
+}
+
+.learn-more:hover {
+    width: 140px;
+    height: 50px;
+    background-color: #fff;
+    color: #7c0f28;
+    text-align: center;
+    border: 1px solid #7c0f28;
+    margin: 20px 10px 20px 0px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 10px;
+    transition: 0.2s ease-in-out;
+}
+
+/*=================pride section ====================*/
+.pride{
+    background-color: transparent;
+    height: auto;
+    padding: 25px 0px;
+    max-width: 100%;
+    overflow: hidden;
+    color: #43121d;
+    margin-top: 60px;
+}
+
+.pride img {
+
+   max-width:100%; 
+   border-radius:10px;
+}
+
+.pride h2 {
+    width:80%;
+font-size:30px;
+font-weight: bold;
+margin: 10px 0px;
+margin-bottom: 20px;
+line-height:40px;
+}
+
+.pride p {
+    width: 80%;
+font-size: 16px;
+line-height: 26px;
+margin-top: 20px;
+}
+
+.make{
+    color: 8f7278;
+}
+
+
+/* new section */
+
+.cake {
+    background-image: url('./../../assets/cake.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: center;
+    max-width: 100%;
+    height: 300px !important;
+    overflow: hidden;
+        text-align: center;
+}
+
+.cake h2 {
+    margin-top:50px;
+    color: #43121d;
+        line-height: 40px;
+}
+
+.cake p {
+        font-size: 20px;
+        line-height: 30px;
+        margin-top: 20px;
+        text-align: center;
+
+}
+.cake a{
+    color: #3b0712;    
+        font-size: 20px;
+        margin: 10px !important;
+}
+
+.Explore, .Explore-p{
+        text-align: center;
+    color: #3b0712;
+}
+
+.blogs{
+        margin-top: 50px;
+        padding:25px 0px;
+        overflow: hidden;
+        width: 100%;
+        height: auto;
+}
+.blogs img {
+max-width: 100%;
+border-radius: 10px;
+}
+
+.time,.title{
+    text-align: start;
+}
+
+.price{
+    margin-top: 20px;
+    color: #a82d49;
+    font-size:25px;
+
+}
+
+
+
